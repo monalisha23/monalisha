@@ -1,2 +1,2 @@
 # monalisha
-fulstack
+fullstack
